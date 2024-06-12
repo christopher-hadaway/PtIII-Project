@@ -1,3 +1,19 @@
+
+| Folder  | Description|
+| ------------- | ------------- |
+| Appendix Figures  | figures used in project report appendix as both .png and .fig  |
+| Checkerboards | checkerboards for 480p screen.<br> python script to generate checkerboards |
+| FHDCheckerboards | checkerboards for 1080p screen |
+| NIMA data | DPPC compression isotherm data |
+| Report figures | figures used in project report as both .png and .fig |
+| controlMotor | arduino script written by H. McCullen |
+| fcd-master | FCD scripts by S.Wildeman |
+| misc scripts | miscellaneous scripts to run various tests, combine figures etc.|
+
+
+
+from R.Tebbutt :
+
 Document for the use of the Langmuir Trough device, a project in soft matter physis supervised by Pietro Cicuta.
 
 About::
