@@ -1,4 +1,5 @@
 
+
 | Folder  | Description|
 | ------------- | ------------- |
 | Appendix Figures  | figures used in project report appendix as both .png and .fig  |
@@ -10,6 +11,10 @@
 | fcd-master | FCD scripts by S.Wildeman |
 | misc scripts | miscellaneous scripts to run various tests, combine figures etc.|
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 from R.Tebbutt :
