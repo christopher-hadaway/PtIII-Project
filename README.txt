@@ -1,7 +1,7 @@
 
 
 | Folder  | Description|
-| ------------- | ------------- |
+| ----- | ----- |
 | Appendix Figures  | figures used in project report appendix as both .png and .fig  |
 | Checkerboards | checkerboards for 480p screen.<br> python script to generate checkerboards |
 | FHDCheckerboards | checkerboards for 1080p screen |
@@ -10,12 +10,6 @@
 | controlMotor | arduino script written by H. McCullen |
 | fcd-master | FCD scripts by S.Wildeman |
 | misc scripts | miscellaneous scripts to run various tests, combine figures etc.|
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
 
 from R.Tebbutt :
 
